@@ -24,7 +24,9 @@ Der Kunde hat angefragt, ob das IT-System in die Cloud migriert werden kann, da 
 
 ## Abgrenzung der Aufgaben / Vorabüberlegungen
 
+* Fokus ist erstmaö technischer Natur, Herausforderung für Beantworter bleibt die kommunikative, menschliche Schicht (Frage 4, Situation beim Kunden)
 * Ausdetailierung wird erstmal niedrig gehalten
 * Das "Wie" vor dem "Was"
 * Ergebnisse als Diskussionsgrundlage für Bewerbungsgespäch
 * Oft sind Annahmen über die Umgebung und die Kundenwünsche vorgenommen worden (dann auch markiert)
+* Bei Frage 4 besteht der größte Diskussionbedarf meinerseits
