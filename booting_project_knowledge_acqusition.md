@@ -8,7 +8,7 @@ Empfinden geändert und situativ auf den Kunden zugeschnitten werden.
 * Klare Ziele mit dem Kunden absprechen um beispielsweise die angesprochenen Probleme (siehe Szenario) zu beheben
   (folgend **Annahmen über Ziele des Kunden**):
   * Entwicklungszeit sinkt um […]
-  * Entwicklerzufriedenheit steigt […] 
+  * Entwicklerzufriedenheit steigt […]
   * Anwenderzufriedenheit steigt um […]
   * Personalgewinnungsfrequenz steigt um […]
   * Wichtige Stakeholder sind commitet
