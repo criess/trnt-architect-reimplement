@@ -37,3 +37,5 @@ Messbare KPIs der Entwüfe können zum Beispiel die folgenden 5 Dimensionen sein
 
 Weiterhin kann jeder Entwurf im Hinblick auf Resourceneinsatz und die zu erreichenden
 organisationsweiten Zielen (nach Anforderungsanalayse) bewertet werden.
+
+`Büchser: Hunde & Katzen`
