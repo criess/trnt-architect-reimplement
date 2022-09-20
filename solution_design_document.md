@@ -55,3 +55,7 @@ Non-funktionale Anforderung zu (**Annahmen aus Szenario**):
 ## Risiken und Mitigation
 
 **Annahmen aus Szenario** Bestellte Perfomance kann nicht geliefert werden -> Caches einsetzen, Horizontal Massiv skalieren, Lastests vorab
+
+
+## Iteration
+Prinzip für Messbarkeit der Zwischenergebnisse
