@@ -9,7 +9,7 @@ und Produkte.
 
 * Iterativer Ansatz um frühzeitig mit Entwürfen fürs Solution Design mit allen 
   Stakeholdern ins Gespräch zu kommen.
-  **RISIKO** Nicht-entscheidbarkeit wegen "zu viele Köche" Syndrom 
+  **RISIKO** Nicht-entscheidbarkeit wegen "zu viele Köche" Syndrom ; Mitigation Gilden Prinzip kann meist gut funktionieren.
 
 ## Modularer Aufbau
 
